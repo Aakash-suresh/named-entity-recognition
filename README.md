@@ -6,10 +6,11 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
 To develop an LSTM-based neural network model using Bidirectional Recurrent Neural Networks for recognizing the named entities in the text.
-![output1](d.jpg)
-## Neural Network Model
+```
 
-Include the neural network model diagram.
+```
+![output1](d.jpg)
+
 
 ## DESIGN STEPS
 
@@ -141,9 +142,10 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ```
 ## OUTPUT
 
-### Training Loss, Validation Loss Vs Iteration Plot
-
-![output1](o.png)
+### Training Loss:
+![output1](tl.png)
+### Validation Loss Vs Iteration Plot
+![output1](tvl.png)
 ### Sample Text Prediction
 ![output1](p.png)
 ## RESULT
