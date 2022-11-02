@@ -6,7 +6,7 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
 To develop an LSTM-based neural network model using Bidirectional Recurrent Neural Networks for recognizing the named entities in the text.
-![output1](d.png)
+![output1](d.jpg)
 ## Neural Network Model
 
 Include the neural network model diagram.
